@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FunFacts</string>
+    <string-array name="dog_fun_facts">
+        <item>The Labrador Retriever has been on the AKC’s top 10 most popular breeds list for longer than any other breed.</item>
+        <item>A dog’s nose print is unique, much like a person’s fingerprint.</item>
+        <item>Forty-five percent of U.S. dogs sleep in their owner’s beds.</item>
+        <item>Speaking of sleeping … all dogs dream, but puppies and senior dogs dream more frequently than adult dogs.</item>
+        <item>Seventy percent of people sign their dog’s name on their holiday cards.</item>
+        <item>A dog’s sense of smell is legendary, but did you know that their nose has as many as 300 million receptors? In comparison, a human nose has about 5 million.</item>
+        <item> Rin Tin Tin, the famous German Shepherd Dog, was nominated for an Academy Award.</item>
+        <item>Dogs’ noses can sense heat and thermal radiation, which explains why blind or deaf dogs can still hunt.</item>
+        <item>The French Bulldog was first named the most popular breed in 2022.</item>
+        <item>The name Collie means “black.” (Collies once tended black-faced sheep.)</item>
+        <item> Yawning is contagious — even for dogs. Research shows that the sound of a human yawn can trigger one from your dog. And it’s four times as likely to happen when it’s the yawn of a person your pet knows.</item>
+        <item>The Dandie Dinmont Terrier is the only breed named for a fictional person, a character in the novel “Guy Mannering” by Sir Walter Scott.</item>
+    </string-array>
+
+    <string-array name="cat_fun_facts">
+        <item>A house cat’s genome is 95.6 percent tiger, and they share many behaviors with their jungle ancestors, says Layla Morgan Wilde, a cat behavior expert and the founder of Cat Wisdom 101. These behaviors include scent marking by scratching, prey play, prey stalking, pouncing, chinning, and urine marking.</item>
+        <item>Cats are believed to be the only mammals who don’t taste sweetness.</item>
+        <item>Cats are nearsighted, but their peripheral vision and night vision are much better than that of humans.</item>
+        <item>Cats are supposed to have 18 toes (five toes on each front paw; four toes on each back paw).</item>
+        <item>Cats can jump up to six times their length.</item>
+        <item>Cats’ claws all curve downward, which means that they can’t climb down trees head-first. Instead, they have to back down the trunk.</item>
+        <item>Cats’ collarbones don’t connect to their other bones, as these bones are buried in their shoulder muscles.</item>
+        <item>Cats have 230 bones, while humans only have 206.</item>
+        <item>Cats have an extra organ that allows them to taste scents on the air, which is why your cat stares at you with her mouth open from time to time.</item>
+        <item>Cats have whiskers on the backs of their front legs, as well.</item>
+        <item>Cats have nearly twice the amount of neurons in their cerebral cortex as dogs.</item>
+        <item>A cat’s average lifespan increased by a year over the span of time between 2002 and 2012, according to a study by Banfield Pet Hospital.</item>
+        <item>Cats are fastidious creatures about their “bathroom.” If you have more than one cat, you should have one litter box for each.</item>
+        <item>Cats can spend up to a third of their waking hours grooming.</item>
+    </string-array>
+</resources>
