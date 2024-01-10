@@ -1,2 +1,2 @@
-![User Input Screen](/relative/first-screen.png?raw=true "First Screen")
-![Welcome Screen](/relative/second-screen.png?raw=true "Second Screen")
+![User Input Screen](/first-screen.png?raw=true "First Screen")
+![Welcome Screen](/second-screen.png?raw=true "Second Screen")
